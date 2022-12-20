@@ -1,2 +1,2 @@
 # Spectrum-Bidding
-Simulating the spectrum binding process in a class.
+Simulating the spectrum bidding process in a class.
