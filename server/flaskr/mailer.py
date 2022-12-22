@@ -7,7 +7,6 @@ ssl._create_default_https_context = ssl._create_unverified_context
 
 # SENDGRID API KEY
 # Add to variables later
-SENDGRID_API_KEY = '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'
 
 html_text = """
 <html>
